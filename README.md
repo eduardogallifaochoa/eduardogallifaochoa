@@ -1,4 +1,4 @@
-Hi 👋, I'm Eduardo Gallifa
+Hello 👋, I'm Eduardo Gallifa
 
 Quality Assurance Engineer (Manual + Automation)
 
