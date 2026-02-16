@@ -1,6 +1,6 @@
 Hello 👋, I'm Eduardo Gallifa
 
-Quality Assurance Engineer (Manual + Automation)
+Jr DevOps QA (Manual + Automation)
 
 Quick links:
 - 🧪 Portfolio: https://eduardogallifaochoa.github.io/qa-portfolio/
@@ -28,6 +28,9 @@ Languages and Tools:
   </a>
   <a href="https://docs.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42" height="42" />
+  </a>
+  <a href="https://kubernetes.io/docs/home/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="42" height="42" />
   </a>
   <a href="https://code.visualstudio.com/docs" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="42" height="42" />
