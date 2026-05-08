@@ -15,81 +15,72 @@ I'm focused on software quality through manual testing, automation, API testing,
 
 <table>
   <tr>
-    <td align="center" width="80">
+    <td align="center">
       <a href="https://docs.python.org/3/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" height="42" alt="Python" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
       </a>
-      <br />Python
     </td>
-    <td align="center" width="80">
+    <td align="center">
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" height="42" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
       </a>
-      <br />JS
     </td>
-    <td align="center" width="80">
+    <td align="center">
       <a href="https://www.typescriptlang.org/docs/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="42" height="42" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
       </a>
-      <br />TS
     </td>
-    <td align="center" width="80">
+    <td align="center">
       <a href="https://playwright.dev/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" width="42" height="42" alt="Playwright" />
+        <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
       </a>
-      <br />Playwright
     </td>
-    <td align="center" width="80">
+  </tr>
+  <tr>
+    <td align="center">
       <a href="https://learning.postman.com/docs/introduction/overview/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="42" height="42" alt="Postman" />
+        <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
       </a>
-      <br />Postman
     </td>
-    <td align="center" width="80">
+    <td align="center">
       <a href="https://docs.docker.com/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42" height="42" alt="Docker" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
       </a>
-      <br />Docker
     </td>
-    <td align="center" width="80">
+    <td align="center">
       <a href="https://kubernetes.io/docs/home/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="42" height="42" alt="Kubernetes" />
+        <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
       </a>
-      <br />K8s
     </td>
-    <td align="center" width="80">
+    <td align="center">
       <a href="https://code.visualstudio.com/docs" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="42" height="42" alt="VS Code" />
+        <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
       </a>
-      <br />VS Code
     </td>
-    <td align="center" width="80">
+  </tr>
+  <tr>
+    <td align="center">
       <a href="https://chatgpt.com/" target="_blank">
-        <img src="https://cdn.simpleicons.org/openai/FFFFFF" width="42" height="42" alt="ChatGPT" />
+        <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
       </a>
-      <br />ChatGPT
     </td>
-    <td align="center" width="80">
+    <td align="center">
       <a href="https://openai.com/codex/" target="_blank">
-        <img src="https://cdn.simpleicons.org/openai/FFFFFF" width="42" height="42" alt="Codex" />
+        <img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white" alt="Codex" />
       </a>
-      <br />Codex
     </td>
-    <td align="center" width="80">
+    <td align="center">
       <a href="https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vmware/vmware-original.svg" width="42" height="42" alt="VMware Workstation" />
+        <img src="https://img.shields.io/badge/VMware_Workstation-607078?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware Workstation" />
       </a>
-      <br />VMware
     </td>
-    <td align="center" width="80">
+    <td align="center">
       <a href="https://ubuntu.com/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" width="42" height="42" alt="Ubuntu" />
+        <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
       </a>
-      <br />Ubuntu
     </td>
   </tr>
 </table>
-
 ## Projects & Contributions
 
 ### QA Automation Site  
