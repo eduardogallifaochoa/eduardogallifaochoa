@@ -13,7 +13,58 @@ I'm focused on software quality through manual testing, automation, API testing,
 
 ## Languages and Tools
 
-<p align="left"><a href="https://docs.python.org/3/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" height="42" alt="Python" /></a>&nbsp;&nbsp;<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" height="42" alt="JavaScript" /></a>&nbsp;&nbsp;<a href="https://www.typescriptlang.org/docs/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="42" height="42" alt="TypeScript" /></a>&nbsp;&nbsp;<a href="https://playwright.dev/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" width="42" height="42" alt="Playwright" /></a>&nbsp;&nbsp;<a href="https://learning.postman.com/docs/introduction/overview/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="42" height="42" alt="Postman" /></a>&nbsp;&nbsp;<a href="https://docs.docker.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42" height="42" alt="Docker" /></a>&nbsp;&nbsp;<a href="https://kubernetes.io/docs/home/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="42" height="42" alt="Kubernetes" /></a>&nbsp;&nbsp;<a href="https://code.visualstudio.com/docs" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="42" height="42" alt="VS Code" /></a></p>
+<table>
+  <tr>
+    <td align="center" width="70">
+      <a href="https://docs.python.org/3/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" height="42" alt="Python" />
+      </a>
+      <br />Python
+    </td>
+    <td align="center" width="70">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" height="42" alt="JavaScript" />
+      </a>
+      <br />JS
+    </td>
+    <td align="center" width="70">
+      <a href="https://www.typescriptlang.org/docs/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="42" height="42" alt="TypeScript" />
+      </a>
+      <br />TS
+    </td>
+    <td align="center" width="70">
+      <a href="https://playwright.dev/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" width="42" height="42" alt="Playwright" />
+      </a>
+      <br />Playwright
+    </td>
+    <td align="center" width="70">
+      <a href="https://learning.postman.com/docs/introduction/overview/" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="42" height="42" alt="Postman" />
+      </a>
+      <br />Postman
+    </td>
+    <td align="center" width="70">
+      <a href="https://docs.docker.com/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42" height="42" alt="Docker" />
+      </a>
+      <br />Docker
+    </td>
+    <td align="center" width="70">
+      <a href="https://kubernetes.io/docs/home/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="42" height="42" alt="Kubernetes" />
+      </a>
+      <br />K8s
+    </td>
+    <td align="center" width="70">
+      <a href="https://code.visualstudio.com/docs" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="42" height="42" alt="VS Code" />
+      </a>
+      <br />VS Code
+    </td>
+  </tr>
+</table>
 
 ## Projects & Contributions
 
