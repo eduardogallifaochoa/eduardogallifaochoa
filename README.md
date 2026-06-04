@@ -75,6 +75,18 @@ I'm focused on software quality through manual testing, automation, API testing,
       </a>
     </td>
     <td align="center">
+      <a href="https://claude.ai/code" target="_blank">
+        <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://claude.ai/" target="_blank">
+        <img src="https://img.shields.io/badge/Claude_Cowork-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Cowork" />
+      </a>
+    </td>
+    <td align="center">
       <a href="https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion" target="_blank">
         <img src="https://img.shields.io/badge/VMware_Workstation-607078?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware Workstation" />
       </a>
