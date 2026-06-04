@@ -98,6 +98,7 @@ I'm focused on software quality through manual testing, automation, API testing,
     </td>
   </tr>
 </table>
+
 ## Projects & Contributions
 
 ### QA Automation Site  
