@@ -35,13 +35,13 @@ I'm focused on software quality through manual testing, automation, API testing,
         <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://learning.postman.com/docs/introduction/overview/" target="_blank">
         <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://docs.docker.com/" target="_blank">
         <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
@@ -57,8 +57,6 @@ I'm focused on software quality through manual testing, automation, API testing,
         <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://chatgpt.com/" target="_blank">
         <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
@@ -69,6 +67,8 @@ I'm focused on software quality through manual testing, automation, API testing,
         <img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white" alt="Codex" />
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://docs.anthropic.com/" target="_blank">
         <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
@@ -79,8 +79,6 @@ I'm focused on software quality through manual testing, automation, API testing,
         <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" />
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://claude.ai/" target="_blank">
         <img src="https://img.shields.io/badge/Claude_Cowork-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Cowork" />
