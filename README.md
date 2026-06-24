@@ -1,10 +1,10 @@
-# Hello 👋, I'm Eduardo Gallifa
+# Hi, I'm Eduardo Gallifa
 
 **QA Engineer | Manual + Automation | DevOps Foundations**
 
-I'm focused on software quality through manual testing, automation, API testing, CI/CD, and practical DevOps workflows.
+I work on software quality: manual testing, automation, API testing, CI/CD, and practical DevOps. I use AI daily as part of the workflow, and I keep the judgment on what to test and why something failed.
 
-## Quick Links
+## Links
 
 - 🧪 **Portfolio:** https://eduardogallifaochoa.github.io/qa-portfolio/
 - 📄 **CV:** https://eduardogallifaochoa.github.io/qa-portfolio/docs/Eduardo_Gallifa.pdf
@@ -98,19 +98,19 @@ I'm focused on software quality through manual testing, automation, API testing,
   </tr>
 </table>
 
-## Projects & Contributions
+## Projects
 
-### QA Automation Site  
-**Playwright + Pytest + FastAPI**
+### QA Automation Site
+**Playwright · PyTest · FastAPI**
 
 - Cross-browser E2E tests for login and contact flows.
-- Positive, negative, and boundary test scenarios.
+- Positive, negative, and boundary scenarios.
 - UI and API validations with HTML reports.
 - CI execution with GitHub Actions.
 
 **Code:** https://github.com/eduardogallifaochoa/qa-automation-site
 
-### Automation Test Store  
+### Automation Test Store
 **Playwright**
 
 - UI user-flow scenarios with stable selectors.
@@ -120,12 +120,12 @@ I'm focused on software quality through manual testing, automation, API testing,
 
 **Code:** https://github.com/eduardogallifaochoa/automationteststore
 
-### Petstore API Playwright  
+### Petstore API Playwright
 **API Testing**
 
-- API tests for GET, POST, PUT, and DELETE requests.
+- Tests for GET, POST, PUT, and DELETE requests.
 - Negative scenarios and response validations.
 - Test data handling to reduce flaky state.
-- Fixed IDs for more predictable execution.
+- Fixed IDs for predictable execution.
 
 **Code:** https://github.com/eduardogallifaochoa/petstore-api-playwright
