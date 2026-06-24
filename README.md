@@ -9,7 +9,8 @@ I'm focused on software quality through manual testing, automation, API testing,
 - 🧪 **Portfolio:** https://eduardogallifaochoa.github.io/qa-portfolio/
 - 📄 **CV:** https://eduardogallifaochoa.github.io/qa-portfolio/docs/Eduardo_Gallifa.pdf
 - 💼 **LinkedIn:** https://www.linkedin.com/in/eduardogallifaochoa/
-- ✉️ **Email:** eduardogallifa@gmail.com
+- ▶️ **YouTube:** https://www.youtube.com/@eduardogallifa
+- ✉️ **Email:** eduardogallifao@gmail.com
 
 ## Languages and Tools
 
